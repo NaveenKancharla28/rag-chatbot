@@ -1,0 +1,8 @@
+Q: How do I reset my password?
+A: Go to the settings page, click "Forgot Password," and follow the instructions.
+
+Q: What is your refund policy?
+A: We offer a 30-day refund policy. Contact support for assistance.
+
+Q: How can I contact customer support?
+A: You can email us at support@example.com or call 1-800-123-4567.
